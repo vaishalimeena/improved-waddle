@@ -1,0 +1,5 @@
+node_modules/
+
+# Ignore the test and development databases
+/db/*.sqlite
+/db/*.sqlite-journal
